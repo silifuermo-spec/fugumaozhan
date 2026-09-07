@@ -1,0 +1,7 @@
+interface:
+  display_name: "复古毛毡人偶"
+  short_description: "使用五张内置参考图生成统一定格动画手工人偶角色"
+  default_prompt: "Use $fugumaozhan to create a new handcrafted stop-motion character from the built-in style references."
+
+policy:
+  allow_implicit_invocation: true
