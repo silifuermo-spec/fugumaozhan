@@ -1,7 +1,7 @@
 interface:
-  display_name: "复古毛毡人偶"
-  short_description: "使用五张内置参考图生成统一定格动画手工人偶角色"
-  default_prompt: "Use $fugumaozhan to create a new handcrafted stop-motion character from the built-in style references."
+  display_name: "夸张动作复古毛毡人偶"
+  short_description: "用五张动作版参考图生成同风格的夸张动态手工人偶"
+  default_prompt: "使用 $fugumaozhan 根据我的大致角色描述，生成一个夸张动作的复古毛毡定格动画人偶。"
 
 policy:
   allow_implicit_invocation: true
